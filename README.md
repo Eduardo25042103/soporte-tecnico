@@ -179,6 +179,10 @@ soporte-tecnico/
 
 ##  Equipo de desarrollo — Grupo 08
 
+Henry Raul Monroy Gutierrez
+Jairo Aranya Huaman
+Eduardo Enrique Sánchez Peña
+
 ---
 
 ##  Dependencias principales
